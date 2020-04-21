@@ -1,5 +1,9 @@
 # A WDL-based pipeline to process DNBelab C4 fastq to gene expression matrix
 
+* Notice *
+This is a development pipeline for research only. For MGI's commercial users, please visit [https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_scRNA-analysis-software). 
+
+
 ## News
 * v0.5, Update PISA to v0.2, STAR to 2.7.3a
 * Aug. 2019, v0.1
