@@ -3,7 +3,7 @@
     "cell barcode":[
 	{
 	    "location":"R1:1-10",
-	    "distance":"0",
+	    "distance":"1",
 	    "white list":[
 		"TAACAGCCAA",
 		"CTAAGAGTCC",
@@ -1544,8 +1544,8 @@
 	    ]
 	},
 	{
-	    "location":"R1:17-26",
-	    "distance":"0",
+	    "location":"R1:11-20",
+	    "distance":"1",
 	    "white list":[
 		"TAACAGCCAA",
 		"CTAAGAGTCC",
@@ -3086,9 +3086,9 @@
 		]
 	},
     ],
-    "UMI tag":"UY",
+    "UMI tag":"UB",
     "UMI":{
-	"location":"R1:32-41",
+	"location":"R1:21-30",
     },
     "read 1":{
 	"location":"R2:1-100",
