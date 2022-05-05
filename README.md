@@ -2,7 +2,7 @@
 
 ## Notice 
 * This is a development pipeline for research only. For MGI's commercial users, please visit [https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_scRNA-analysis-software). 
-* If you want test each step by step, try to read [PISA's wiki](https://github.com/shiquan/PISA/wiki/Vignette1-:-Generate-gene-count-matrix-for-scRNA)
+* If you want to test each step by step, try to read [PISA's wiki](https://github.com/shiquan/PISA/wiki/Vignette1-:-Generate-gene-count-matrix-for-scRNA)
 * Please cite [PISA](https://github.com/shiquan/PISA/) if you use this pipeline in your work.
 
 ## News
